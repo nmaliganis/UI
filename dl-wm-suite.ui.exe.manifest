@@ -1334,19 +1334,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xUlX7T5OhPe4fOQO2t53FC4Rc+jW92eiTV/IUcLRbyY=</dsig:DigestValue>
+        <dsig:DigestValue>zVfIZ6GZAUbay0AD7YAGOM3fnVyA0X42F0bhLH68wK4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="dl-wm.presenter.dll" size="244224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="dl-wm.presenter.dll" size="243712">
       <assemblyIdentity name="dl-wm.presenter" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mM2j5Jvt4j2cCK/XTgKLBjkG0L2bpxzsk30Gp+2NMPs=</dsig:DigestValue>
+        <dsig:DigestValue>XrODhrml1gCYkrAFp5A67S/+CiuINDb29pTNz4v1TbQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1358,19 +1358,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WEVFqL1uCRgmfgkqbTVThN4dlh3qibLszJ1Pic0P7KQ=</dsig:DigestValue>
+        <dsig:DigestValue>KOIaonha73E4TukoB+dBh4qJS7XCS4lcViJnjS0t5cU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="dl-wm-suite.ui.exe" size="1867776">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="dl-wm-suite.ui.exe" size="1858560">
       <assemblyIdentity name="dl-wm-suite.ui" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/fjbi4lSjF7siSyzIW4zIbizXUXnQNEtZM5xn6GS7hw=</dsig:DigestValue>
+        <dsig:DigestValue>PVMznvCMvsbMFyX/Yoe7+TPheliJ+wA2scTnCxslGoY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
